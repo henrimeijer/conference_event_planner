@@ -1,4 +1,3 @@
-// venueSlice.js
 import { createSlice } from "@reduxjs/toolkit";
 
 export const venueSlice = createSlice({
